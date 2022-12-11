@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "ema-john-simple-a7a92"
-  }
+    "default": "ema-john-simple-f5282",
+    "build": "ema-john-simple-f5282"
+  },
+  "targets": {},
+  "etags": {}
 }
